@@ -1,6 +1,6 @@
 # 🗄️ Banco de dados SQL 🗂️
 
-# 🎓 Curso completo de banco de dados e SQL da udemy 🏫
+# 🎓 Curso completo de banco de dados e SQL da Udemy 🏫
 
 ### 🔗 link: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado 🔗
 
